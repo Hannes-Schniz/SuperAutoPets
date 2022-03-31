@@ -1,4 +1,4 @@
-package com.company;
+package com.superautopets.ui;
 
 public class Main {
 
